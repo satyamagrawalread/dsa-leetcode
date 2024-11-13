@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0022-generate-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
