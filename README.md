@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0051-n-queens) |
+| [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -50,8 +52,13 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
