@@ -12,6 +12,7 @@
 | [0047-permutations-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0079-word-search) |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
@@ -28,11 +29,13 @@
 | [0052-n-queens-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
@@ -67,6 +70,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
