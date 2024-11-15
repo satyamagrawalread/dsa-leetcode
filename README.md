@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
@@ -26,6 +27,7 @@
 | [0051-n-queens](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
