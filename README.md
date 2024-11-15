@@ -11,6 +11,7 @@
 | [0047-permutations-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0051-n-queens) |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0227-basic-calculator-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -61,4 +63,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
