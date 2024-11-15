@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
@@ -30,6 +31,7 @@
 | [0077-combinations](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0090-subsets-ii) |
 ## String
 |  |
 | ------- |
@@ -80,4 +82,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
