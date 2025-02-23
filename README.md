@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0907-koko-eating-bananas](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0907-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 | ------- |
 | [0078-subsets](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/satyamagrawalread/dsa-leetcode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
